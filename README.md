@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Awesome Portfolio Websites</b></h1> 
+<h1 align= "center"><b>Asome Portfolio Websites</b></h1> 
 
 Are you a researcher, a developer or perhaps an explorer of technology who is looking forward to create an awesome personal brand?
 <p align="center"><img src="https://media.giphy.com/media/dkGhBWE3SyzXW/giphy.gif" width = 40%></p>
